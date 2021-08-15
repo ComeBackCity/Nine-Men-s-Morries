@@ -1,0 +1,9 @@
+#all user specific .txt files
+*.txt
+
+#except text file based database
+!users.txt
+
+#util folders
+.idea
+out
